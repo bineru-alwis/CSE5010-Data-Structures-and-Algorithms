@@ -18,7 +18,7 @@ Discussed below two sorting Algorithms. Showed us the java code in the presentat
 
 **My Notes**
 
-## Stack
+### Stack
 https://www.tutorialspoint.com/dsa_using_java/dsa_using_java_stack.htm
 
 - Stack is kind of data structure which allows operations on data only at one end.
@@ -33,3 +33,16 @@ Following are the primary operations of a stack which are following.
 - isFull − check if stack is full.
 - isEmpty − check if stack is empty.
 - Size - check the size of the stack.
+
+### Qeue
+https://www.tutorialspoint.com/dsa_using_java/dsa_using_java_queue.htm
+
+Queue is kind of data structure similar to stack with primary difference that the first item inserted is the first item to be removed (FIFO - First In First Out) where stack is based on LIFO, Last In First Out principal.
+
+Basic Operations
+
+- enqueue − add an item to the rear of the queue.
+- dequeue − remove an item from the front of the queue.
+- Peek − get the element at front of the queue.
+- isFull − check if queue is full.
+- isEmpty − check if queue is empty.
