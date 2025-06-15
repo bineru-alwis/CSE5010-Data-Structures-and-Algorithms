@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class queueDSA {
+public class QueueDSA {
     private int maxSize;
     private int[] queueArray;
     private int front;
@@ -8,7 +6,7 @@ public class queueDSA {
     private int dataCount;
 
     //constructor
-    public queueDSA (int size){
+    public QueueDSA(int size){
         maxSize = size;
         queueArray = new int[maxSize];
         front = 0;
@@ -52,12 +50,12 @@ public class queueDSA {
 
     //method to peek the front element
     public void peek(){
-        System.out.println(queueArray[front]);
+        System.out.println("Front queue element: "+queueArray[front]);
     }
 
     //method to get the currant size of the queue
     public void size(){
-        System.out.println(dataCount);
+        System.out.println("Currant size of the Queue: "+dataCount);
     }
 
     /*

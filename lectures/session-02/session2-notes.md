@@ -39,6 +39,12 @@ https://www.tutorialspoint.com/dsa_using_java/dsa_using_java_queue.htm
 
 Queue is kind of data structure similar to stack with primary difference that the first item inserted is the first item to be removed (FIFO - First In First Out) where stack is based on LIFO, Last In First Out principal.
 
+```
+Uses Circular Logic in enqueue() and dequeue() to wrap rear and front back to 0 when they hit maxSize.
+rear = (rear+1) % maxSize;
+front = (front+1) % maxSize;
+```
+
 Basic Operations
 
 - enqueue − add an item to the rear of the queue.
