@@ -3,9 +3,6 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
-.idea
-queue.iml
-
 ### Eclipse ###
 .apt_generated
 .classpath
@@ -15,8 +12,6 @@ queue.iml
 .springBeans
 .sts4-cache
 bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
 
 ### NetBeans ###
 /nbproject/private/
