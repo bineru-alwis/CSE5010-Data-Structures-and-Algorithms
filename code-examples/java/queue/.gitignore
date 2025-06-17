@@ -5,6 +5,7 @@ out/
 
 .idea/
 stack.iml
+queue.iml
 
 ### Eclipse ###
 .apt_generated
