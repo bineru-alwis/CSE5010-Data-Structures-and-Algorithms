@@ -34,7 +34,7 @@ Following are the primary operations of a stack which are following.
 - isEmpty − check if stack is empty.
 - Size - check the size of the stack.
 
-### Qeue
+### Queue
 https://www.tutorialspoint.com/dsa_using_java/dsa_using_java_queue.htm
 
 Queue is kind of data structure similar to stack with primary difference that the first item inserted is the first item to be removed (FIFO - First In First Out) where stack is based on LIFO, Last In First Out principal.
