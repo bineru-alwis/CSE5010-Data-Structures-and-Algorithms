@@ -5,6 +5,7 @@ Lecturer Contact Number: 0775816789
 Total module sessions: 8
 
 ### Repository File Structure.
+```
 CSE5010-Data-Structures-And-Algorithms/
 │
 ├── README.md *This readme file*
@@ -29,4 +30,4 @@ CSE5010-Data-Structures-And-Algorithms/
 |
 └── Lecture-Notes/ *Notes,study materials from the lecturer*
     └── Data Structures and Algorithms.pdfs
-
+```
