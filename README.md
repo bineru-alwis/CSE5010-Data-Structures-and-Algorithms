@@ -1,8 +1,8 @@
 # CSE5010-Data-Structures-and-Algorithm
-CSE5010 Data Structures and Algorithm - CL/HDCSE/CMU/125
-Lecturer Name: Viraj Samaranayake
-Lecturer Contact Number: 0775816789
-Total module sessions: 8
+- CSE5010 Data Structures and Algorithm - CL/HDCSE/CMU/125 Part-time
+- Lecturer Name: Viraj Samaranayake
+- Lecturer Contact Number: 0775816789
+- Total module sessions: 8
 
 ### Repository File Structure.
 ```
