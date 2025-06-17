@@ -3,12 +3,12 @@ Did not give any notes to write down
 # Topics discussed in the class
 
 ### Linear Data Structures
-Discussed and coded below two data Structures and tested them in java. Notes for these two are not available in the lectures notes PDF lecturer gave.
+Discussed and coded the following two data structures and tested them in Java. Notes for these are not available in the lecture notes PDF provided by the lecturer:
 - Stack
-- Qeue
+- Queue
 
 ### Sorting Algorithms
-Discussed below two sorting Algorithms. Showed us the java code in the presentation but we did not coded or tested the code in class. Codes and detailed explanation are available in the PDF lecturer gave.
+Discussed the following sorting algorithms. The lecturer showed us the Java code during the presentation, but we did not code or test them in class. The code and detailed explanations are available in the PDF provided by the lecturer:
 - Bubble Sort
 - Selection Sort
 - Insertion Sort
