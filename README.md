@@ -10,7 +10,7 @@ CSE5010-Data-Structures-And-Algorithms/
 │
 ├── README.md   (This readme file)
 │
-├── lectures/   (Lecture details session vice)
+├── lectures/   (Lecture details session-wise)
 │   ├── session01/
 │   │   └── session1-notes.md   (Session one notes)
 │   │
@@ -18,12 +18,12 @@ CSE5010-Data-Structures-And-Algorithms/
 │       ├── session2-notes.md   (Session two notes)
 │       └── example-code/   (session two example code from the Lecturer)
 │
-├── code-examples/  (Codes i wrote, wrote same programs with both java and c++)
-│   ├── java/   (used IntelliJ IDEA)
+├── code-examples/  (source codes I wrote and tested in both Java and C++)
+│   ├── java/
 │   │   ├── stack/
 │   │   └── queue/
 │   │
-│   └── c++/    (used visual studio code)
+│   └── c++/
 │       ├── stack/
 │       └── queue/
 │
