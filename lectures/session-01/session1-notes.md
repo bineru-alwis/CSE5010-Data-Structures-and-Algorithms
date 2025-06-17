@@ -1,4 +1,4 @@
-Did not give any notes to write down
+Online teams call, Did not give any notes to write down
 
 # Topics discussed in the class
 
