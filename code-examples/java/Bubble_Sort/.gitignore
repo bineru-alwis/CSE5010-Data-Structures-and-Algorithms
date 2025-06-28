@@ -4,7 +4,7 @@ out/
 !**/src/test/**/out/
 
 .idea/
-.iml
+Bubble_Sort.iml
 
 ### Eclipse ###
 .apt_generated
