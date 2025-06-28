@@ -19,7 +19,7 @@ class QueueDSA{
         void dequeue();
         void sizeOfQueue();
         void peek();
-        void printQueue();
+        // void printQueue(); //debugging function
 };
 
 #endif

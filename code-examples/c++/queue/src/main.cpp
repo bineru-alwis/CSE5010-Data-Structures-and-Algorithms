@@ -23,7 +23,7 @@ int main() {
 
   myQueue.peek();
 
-  myQueue.printQueue();
+  //myQueue.printQueue();
 
   return 0;
 }
