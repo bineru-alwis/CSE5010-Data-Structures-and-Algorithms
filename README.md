@@ -31,3 +31,37 @@ CSE5010-Data-Structures-And-Algorithms/
 └── Lecture-Notes/  (Notes,study materials from the lecturer)
     └── Data Structures and Algorithms.pdfs
 ```
+
+### Things covered so far
+```
+├──0.Introduction to Data Structures and Algorithms (Online Session 1)
+│
+├──1.Searching Algorithms (Online Session 3)
+│    ├──1.1.Linear Search    
+│    └──1.2.Binary Search
+│    
+├──2.Sorting Algorithms (Session 2)
+│    ├──2.1.Bubble Sort
+│    ├──2.2.Selection Sort
+│    ├──2.3.Insertion Sort
+│    └──2.4.Merge Sort
+│
+├──3.Linear Data Structures
+│    ├──3.1.Arrays and Their Applications (Online Session 1)
+│    ├──3.2.Stack (Session 2)
+│    ├──3.3.Queue (Session 2)
+│    └──3.4.Linked Lists (Online Session 3)
+│            ├── Singly Linked List
+│            ├── Doubly Linked List
+│            └── Circular Linked List
+│
+├──4.Non-Linear Data Structures
+│    ├──4.1.Trees (Session 4)
+│    │      ├──Binary Trees
+│    │      ├──Tree Traversals
+│    │      └──Binary Search Trees (BST)
+│    │        
+│    └──4.2.Hash Tables (Session 4)
+│           └──Hash Functions
+
+    ```
