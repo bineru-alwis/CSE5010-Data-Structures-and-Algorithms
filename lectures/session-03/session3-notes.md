@@ -6,3 +6,5 @@ how to calculate the maximum number of nodes
 Binary tree data structure
 
 
+## Hash Table
+
