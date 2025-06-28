@@ -5,7 +5,7 @@ public class Main {
         //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
         // to see how IntelliJ IDEA suggests fixing it.
 
-        int[] myUnsortedArray = {10, 7, 5, 1, 9, 3, 2, 6};
+        int[] myUnsortedArray = {29, 10, 14, 37, 14};
 
         BubbleSort myBubble_Sort = new BubbleSort();
 
