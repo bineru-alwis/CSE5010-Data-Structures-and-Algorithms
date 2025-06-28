@@ -32,7 +32,7 @@ CSE5010-Data-Structures-And-Algorithms/
     └── Data Structures and Algorithms.pdfs
 ```
 
-### Things covered so far
+### Things covered so far (28/06/2025)
 ```
 ├──0.Introduction to Data Structures and Algorithms (Online Session 1)
 │

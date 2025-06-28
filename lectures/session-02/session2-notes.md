@@ -17,7 +17,7 @@ Discussed the following sorting algorithms. The lecturer showed us the Java code
 ---
 
 **My Notes**
-
+## Linear Data Structures
 ### Stack
 https://www.tutorialspoint.com/dsa_using_java/dsa_using_java_stack.htm
 
@@ -52,3 +52,17 @@ Basic Operations
 - Peek − get the element at front of the queue.
 - isFull − check if queue is full.
 - isEmpty − check if queue is empty.
+
+---
+## Sorting Algorithms
+Sorting refers to arranging data in a particular format. Sorting algorithm specifies the way to arrange data in a particular order. Most common orders are numerical or lexicographical order.
+### Bubble Sort
+Bubble sort is a simple sorting algorithm. This sorting algorithm is comparison based algorithm in which each pair of adjacent elements is compared and elements are swapped if they are not in order. This algorithm is not suitable for large data sets as its average and worst case complexity are of O(n2) where n are no. of items
+Usage Limitations
+- Inefficient for large datasets (Time complexity: O(n²))
+- Involves many swap operations, increasing memory write overhead
+- Not suitable for real-time or performance-critical systems
+
+### Selection Sort
+### Insertion Sort
+### Merge Sort
