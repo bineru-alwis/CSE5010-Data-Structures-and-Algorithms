@@ -22,7 +22,7 @@ CSE5010-Data-Structures-And-Algorithms/
 │   ├── java/
 │   │   ├── stack/
 │   │   ├── queue/
-│   │   └── Bubble_Sort
+│   │   └── bubble-sort/
 │   │
 │   └── c++/
 │       ├── stack/
