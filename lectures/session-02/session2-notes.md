@@ -64,5 +64,8 @@ Usage Limitations
 - Not suitable for real-time or performance-critical systems
 
 ### Selection Sort
+Selection Sort works by repeatedly selecting the smallest (or largest) element from the unsorted portion and moving it to the correct position.
+It divides the list into a sorted and an unsorted part, growing the sorted portion one element at a time.
+
 ### Insertion Sort
 ### Merge Sort
