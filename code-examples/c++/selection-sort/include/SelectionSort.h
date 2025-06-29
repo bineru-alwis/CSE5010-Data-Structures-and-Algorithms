@@ -11,5 +11,4 @@ class SelectionSort{
         void sort(int* arrayToSort, int sizeOfArray);
 };
 
-
 #endif

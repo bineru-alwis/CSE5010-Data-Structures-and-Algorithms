@@ -3,15 +3,10 @@
 
 int main(){
 
-    int unsortedArray[10] = {10,9,8,7,6,5,4,3,2,1};
+    int unsortedArray[10] = {8,5,1,10,7,3,9,2,6,4};
     
     SelectionSort mySelectionSort{};
 
-    mySelectionSort.printArray(unsortedArray, sizeof(unsortedArray)/sizeof(unsortedArray[0]), "Unsorted Array");
-    
-
-
-
-
+    mySelectionSort.sort(unsortedArray, sizeof(unsortedArray)/sizeof(unsortedArray[0]));
 
 }
