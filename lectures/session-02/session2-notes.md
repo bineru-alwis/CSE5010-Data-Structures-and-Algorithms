@@ -58,14 +58,36 @@ Basic Operations
 Sorting refers to arranging data in a particular format. Sorting algorithm specifies the way to arrange data in a particular order. Most common orders are numerical or lexicographical order.
 ### Bubble Sort
 Bubble sort is a simple sorting algorithm. This sorting algorithm is comparison based algorithm in which each pair of adjacent elements is compared and elements are swapped if they are not in order. This algorithm is not suitable for large data sets as its average and worst case complexity are of O(n2) where n are no. of items
-Usage Limitations
+
+**Usage Limitations**
 - Inefficient for large datasets (Time complexity: O(n²))
 - Involves many swap operations, increasing memory write overhead
 - Not suitable for real-time or performance-critical systems
 
+**Real-World Applications**
+- Small clinics: Sorting 10–15 patient files by appointment time manually
+- Freelancing: Organizing 8–12 invoices by payment amount in a spreadsheet
+- Team stand-ups: Prioritizing 5–10 tasks on a whiteboard by estimated completion time
+- IoT devices: Sorting 10–20 sensor readings on low-power embedded systems
+- Classroom use: Arranging student presentation order manually based on duration
+
 ### Selection Sort
 Selection Sort works by repeatedly selecting the smallest (or largest) element from the unsorted portion and moving it to the correct position.
 It divides the list into a sorted and an unsorted part, growing the sorted portion one element at a time.
+
+**Usage Limitations**
+- Always performs O(n²) comparisons, regardless of initial order
+- Inefficient for large datasets despite fewer swaps
+- Not stable by default (may change the order of equal elements)
+- Less cache-friendly compared to divide-and-conquer sorts
+- Not ideal for real-time, high-performance systems
+
+**Real-World Applications**
+- Sorting a list of assignments by deadline for planning
+- Organizing a playlist by song length for quick selections
+- Arranging books by height on a small shelf
+- Ordering small batches of quiz scores in a classroom
+- Sorting expiry dates in a small grocery inventory
 
 ### Insertion Sort
 ### Merge Sort
