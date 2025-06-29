@@ -16,7 +16,7 @@ CSE5010-Data-Structures-And-Algorithms/
 │   │
 │   └── session02/
 │       ├── session2-notes.md   (Session two notes)
-│       └── example-code/   (session two example code from the Lecturer)
+│       └── example-code-from-lecturer/   (session two example code from the Lecturer)
 │
 ├── code-examples/  (source codes I wrote and tested in both Java and C++)
 │   ├── java/

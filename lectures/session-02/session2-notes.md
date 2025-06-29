@@ -90,4 +90,22 @@ It divides the list into a sorted and an unsorted part, growing the sorted porti
 - Sorting expiry dates in a small grocery inventory
 
 ### Insertion Sort
+Insertion Sort works by building a sorted sequence one element at a time.
+It starts with the second element, comparing it with the previous elements, and inserting it into its correct position.
+This process repeats until the entire list is sorted.
+
+**Usage Limitations**
+- Worst-case and average-case performance is O(n²) – not ideal for large datasets
+- May require many shifts in totally unsorted data
+- Not suitable for heavy, real-time data processing
+- Less cache-efficient than certain divide-and-conquer algorithms
+- Best used on small or nearly sorted arrays
+
+**Real-World Applications**
+- Maintaining a sorted music playlist as new songs are added
+- Inserting patient arrival times into a pre-sorted appointment schedule
+- Organizing library books as new ones arrive
+- Keeping a small real-time log sorted in embedded systems
+- Updating casual game leaderboards dynamically
+
 ### Merge Sort
