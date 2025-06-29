@@ -21,7 +21,8 @@ CSE5010-Data-Structures-And-Algorithms/
 ├── code-examples/  (source codes I wrote and tested in both Java and C++)
 │   ├── java/
 │   │   ├── stack/
-│   │   └── queue/
+│   │   ├── queue/
+│   │   └── Bubble_Sort
 │   │
 │   └── c++/
 │       ├── stack/
@@ -61,7 +62,7 @@ CSE5010-Data-Structures-And-Algorithms/
 │    │      ├──Tree Traversals
 │    │      └──Binary Search Trees (BST)
 │    │        
-│    └──4.2.Hash Tables (Session 4)
-│           └──Hash Functions
+│    └──4.2.Hash Tables 
+│           └──Hash Functions (Session 4)
 
     ```
