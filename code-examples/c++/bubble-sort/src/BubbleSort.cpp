@@ -38,12 +38,6 @@ void BubbleSort::sort(int* unsortedArray, int arraySize){
     }
 }
 
-
-
-
-
-
-
 //method to print any array.
 void BubbleSort::printArray(int* arrayToPrint, int arraySize, std::string arrayName){
     
